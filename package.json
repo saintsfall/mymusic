@@ -1,0 +1,16 @@
+{
+  "name": "responsive_landing_page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Caio Santos <caio.f.santos@icloud.com>",
+  "license": "MIT",
+  "homepage": "https://saintsfall.github.io/mymusic",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
